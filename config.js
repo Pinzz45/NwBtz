@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By Vinn Zxn.
+   * Contact Me on wa.me/6287734910547
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
-global.premium = ['6285822347348']
+global.owner = ['6287734910547','6287734910547','6287734910547']
+global.premium = ['6287734910547']
 global.packname = 'Sticker by'
 global.author = 'ArullOfc'
 global.sessionName = 'session'
