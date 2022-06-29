@@ -2735,7 +2735,7 @@ Bot Ini Adalah Beta Multi-Device WhatsApp.
 > Umur : *18*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Gtw*
-> Made in : *Kalimantan Selatan*
+> Made in : *Dodok🗿*
 > Nama Asli : *Alvin... Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
