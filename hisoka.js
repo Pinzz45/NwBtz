@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
+> Name : *Vinnn*
+> Nomor : *https://wa.me/6287734910547*
 > Umur : *18*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Gtw*
 > Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Nama Asli : *Alvin... Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
@@ -3043,7 +3043,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Grub Bot',
-                                    url: 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+                                    url: 'https://chat.whatsapp.com/C0cERkbxNmM2veEQSKPf7D'
                                 }
                             }, {
                                 callButton: {
