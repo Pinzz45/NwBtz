@@ -2734,8 +2734,8 @@ Bot Ini Adalah Beta Multi-Device WhatsApp.
 > Nomor : *https://wa.me/6287734910547*
 > Umur : *18*
 > Region : *Indonesia 🇲🇨*
-> Hobyy : *Gtw*
-> Made in : *Dodok🗿*
+> Hobyy : *ytta*
+> Made in : *Dodok*
 > Nama Asli : *Alvin... Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
