@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By Vinn Zxn.
+   * Contact Me on wa.me/6287734910547
    * Follow https://github.com/DikaArdnt
 */
 
@@ -3048,7 +3048,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+6285822347348'
+                                    phoneNumber: '+6287734910547'
                                 }
                             }, {
                                 quickReplyButton: {
