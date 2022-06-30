@@ -1,7 +1,7 @@
 /**
    * Create By Vinn Zxn.
    * Contact Me on wa.me/6287734910547
-   * Follow https://github.com/DikaArdnt
+   * Follow https://github.com/Pinzz45
 */
 
 require('./config')
